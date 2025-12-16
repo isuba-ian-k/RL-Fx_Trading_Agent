@@ -1,5 +1,5 @@
 
-# A Reinforcemnt Learning FX Trading AGent
+# A Reinforcemnt Learning FX Trading Agent
 
 A Reinforcement Learning FX Trading Agent with a Dueling Double Deep Q-Network Architecture.
 The Agent also used a Prioritized Experience Replay mechanism to update its policies during training.
